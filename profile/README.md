@@ -9,6 +9,7 @@
 > 💡 **核心定位**：搬瓦工官方（BandwagonHost / IT7 Networks）旗下运营的高端企业级网络加速与代理托管服务。三网直连 CN2 GIA / 软银 / 香港 IPLC 高速优化线路，**智能监控 IP 状态，被墙自动秒级切换可用 IP，彻底告别自建 VPS 频繁封锁烦恼**。
 
 > 🛠 **开源配套工具生态**：
+> - 📖 **[justmysocks](https://github.com/justmysocks-guide/justmysocks)**：2026 最新官方购买指南与全场景知识库（[在线网页版](https://justmysocks-guide.github.io/justmysocks/)）
 > - ⚡️ **[jms-speedtest](https://github.com/justmysocks-guide/jms-speedtest)**：JMS 全球机房延迟实测、三网丢包率体检与 ChatGPT / Claude / Gemini 原生 IP 解锁一键脚本
 > - 🎯 **[clash-rules](https://github.com/justmysocks-guide/clash-rules)**：专为 Just My Socks 与海外 AI 优化的高性能 Clash Verge Rev / Sing-box 分流规则包
 
@@ -230,7 +231,8 @@ curl -sSL https://raw.githubusercontent.com/justmysocks-guide/jms-speedtest/main
 对于不愿把时间耗费在写脚本、防封锁、换 IP 的个人开发者、科研人员和跨境从业者而言，Just My Socks 凭借 **搬瓦工大厂背书 + 自动秒切 IP + 顶级 CN2 GIA 线路**，依然是目前最省心、高可用的出海基础设施之一。
 
 👉 **[点击前往 Just My Socks 官方安全镜像通道选购](https://justmysocks.net/members/aff.php?aff=24082)**  
-*(结账记得输入永久折扣码：`JMS9272283`)*
+*(结账记得输入永久折扣码：`JMS9272283`)*  
+👉 **[查看完整 2026 选型与配置指南（GitHub 仓库）](https://github.com/justmysocks-guide/justmysocks)** | **[网页版直达](https://justmysocks-guide.github.io/justmysocks/)**
 
 ---
 *声明：本指南仅供跨国学术研究、跨境软件开发与合规外贸业务使用，请自觉遵守当地网络法律法规。*
