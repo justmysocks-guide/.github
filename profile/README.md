@@ -223,6 +223,11 @@ curl -sSL https://raw.githubusercontent.com/justmysocks-guide/jms-speedtest/main
 - 📌 **[Issue #1: 2026 最新专属优惠码是多少？如何在购买与续费时享受 5.2% 永久循环折扣？](https://github.com/justmysocks-guide/.github/issues/1)**
 - 📌 **[Issue #2: 觉得偶尔速度慢或不稳定？为什么必须切换到 s3 / s4 (CN2 GIA / 9929) 优化线路？](https://github.com/justmysocks-guide/.github/issues/2)**
 - 📌 **[Issue #3: 访问 ChatGPT / Claude 报错 403 Access Denied 怎么办？机房选型与分流防封配置详解](https://github.com/justmysocks-guide/.github/issues/3)**
+- 📌 **[Issue #7: 订阅链接泄露了怎么办？如何让旧链接立即作废](https://github.com/justmysocks-guide/.github/issues/7)**
+- 📌 **[Issue #8: 流量用完了会怎样？每月几号重置？500GB 够用吗](https://github.com/justmysocks-guide/.github/issues/8)**
+- 📌 **[Issue #9: Just My Socks 官网是哪个？相似域名怎么辨别真假](https://github.com/justmysocks-guide/.github/issues/9)**
+- 📌 **[Issue #10: 支持哪些设备和软件？iPhone、安卓、Windows、Mac 分别用什么客户端](https://github.com/justmysocks-guide/.github/issues/10)**
+- 📌 **[Issue #11: 可以几个人一起用吗？“5 台设备”到底怎么算](https://github.com/justmysocks-guide/.github/issues/11)**
 
 ---
 
